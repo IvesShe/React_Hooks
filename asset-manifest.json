@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/React_Hooks/static/js/main.ee825142.chunk.js",
+    "main.js.map": "/React_Hooks/static/js/main.ee825142.chunk.js.map",
+    "runtime-main.js": "/React_Hooks/static/js/runtime-main.ff582881.js",
+    "runtime-main.js.map": "/React_Hooks/static/js/runtime-main.ff582881.js.map",
+    "static/js/2.542e72ec.chunk.js": "/React_Hooks/static/js/2.542e72ec.chunk.js",
+    "static/js/2.542e72ec.chunk.js.map": "/React_Hooks/static/js/2.542e72ec.chunk.js.map",
+    "index.html": "/React_Hooks/index.html",
+    "static/js/2.542e72ec.chunk.js.LICENSE.txt": "/React_Hooks/static/js/2.542e72ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff582881.js",
+    "static/js/2.542e72ec.chunk.js",
+    "static/js/main.ee825142.chunk.js"
+  ]
+}
